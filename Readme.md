@@ -6,7 +6,7 @@ I have done this assessment in 2 days,per day I spent  2.5 hours for coding test
 
 
 
-How would you track down a pperformance issue in production?Hve you ever had to do this?
+How would you track down a performance issue in production?Hve you ever had to do this?
 I am a fresher so I can't answer this question properly but if I had face some exceptions during compile the code or run the code firstly I checked what type of exception arise.There are many types of exceptions like symbolic, logical, warning for Not Found a Path so if that type of exception occurs I  fixed it..
 
 
@@ -19,7 +19,7 @@ Please decribe yourself using JSON?
     "name": "Akshata More",
     "label": "Fresher",
     "email": "akumore133@gmail.com",
-    "phone": "7972545988",
+    "phone": "",
     "location": {
       "address": "2455 Telikhunt Powerhouse",
       "postalCode": "414001",
